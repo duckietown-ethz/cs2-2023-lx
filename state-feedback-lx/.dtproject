@@ -7,10 +7,10 @@ NAME=state-feedback
 
 # recipe repository and location
 # - fully qualified name of the recipe repository, e.g., 'duckietown/duckietown-lx-recipes'
-RECIPE_REPOSITORY=duckietown-ethz/cs2-2023-lx
+RECIPE_REPOSITORY=duckietown-ethz/cs2-2023-recipes
 
 # - branch of RECIPE_REPOSITORY containing the recipe
 RECIPE_BRANCH=main
 
-# - location of the recipe inside the RECIPE_REPOSITORY/RECIPE_BRANCH above
+# - location of the recipe inside the RECIPE_REPOSITORY/RECIPE_BRANCH abov
 RECIPE_LOCATION=state-feedback-recipe
